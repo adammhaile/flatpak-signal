@@ -38,7 +38,7 @@
           "sources": [
             {
               "type": "file",
-              "url": "https://updates.signal.org/desktop/apt/pool/main/s/signal-desktop/signal-desktop_1.0.35_amd64.deb",
+              "url": "https://updates.signal.org/desktop/apt/pool/main/s/signal-desktop/signal-desktop_1.3.0_amd64.deb",
               "sha256": "d9f9d4d54f4121efc8eadf1cf0ff957828088b313e53b66dc540b851c44c1860",
               "dest-filename": "signal.deb"
             },
